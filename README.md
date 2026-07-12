@@ -22,10 +22,7 @@ This project pairs **Claude Code** (the AI coding CLI) with **[video-use](https:
 
 [OmniRoute](https://omniroute.online) is a free local AI router. It runs on your machine and proxies requests to hundreds of providers, pooling their free tiers and automatically falling back when one hits quota.
 
-```bash
-npm install -g omniroute
-omniroute            # starts API at http://localhost:20128/v1
-```
+**Setup guide:** Follow the detailed walkthrough on [this LinkedIn post](https://www.linkedin.com/feed/update/urn:li:activity:7481586111169892353/) — it covers the full installation and configuration. (Credits to the original author for the setup guide.)
 
 **Current version:** v3.8.46
 
