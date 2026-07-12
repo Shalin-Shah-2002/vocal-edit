@@ -244,12 +244,12 @@ These are enforced by the video-use skill every render:
 
 ---
 
-## 📚 Resources
+## 📚 Resources & Credits
 
-| Link |
-|---|
-| https://github.com/browser-use/video-use |
-| https://omniroute.online |
-| https://elevenlabs.io |
-| https://claude.ai/code |
-| https://ffmpeg.org |
+| Project | Author | Link |
+|---|---|---|
+| **video-use** | [browser-use](https://github.com/browser-use) org — [gregpr07](https://github.com/gregpr07), [ShawnPana](https://github.com/ShawnPana) | https://github.com/browser-use/video-use |
+| **OmniRoute** | [diegosouzapw](https://github.com/diegosouzapw) (Diego Rodrigues) | https://github.com/diegosouzapw/OmniRoute |
+| **ElevenLabs** | ElevenLabs | https://elevenlabs.io |
+| **Claude Code** | Anthropic | https://claude.ai/code |
+| **ffmpeg** | FFmpeg team | https://ffmpeg.org |
