@@ -1,4 +1,4 @@
-# 🎬 AI Video Studio — Claude Code + video-use
+# 🎬 vocal-edit — AI Video Editing via Conversation
 
 **Edit professional videos entirely through conversation.** Drop footage in a folder and describe what you want in plain English. The AI inventories, transcribes, analyzes, proposes a cut, and renders — all through structured conversation.
 
