@@ -244,6 +244,19 @@ These are enforced by the video-use skill every render:
 
 ---
 
+---
+
+## 📢 Attribution
+
+This repository is based on an original workflow and project concept created by **Shalin Shah** ([Shalin-Shah-2002](https://github.com/Shalin-Shah-2002)).
+
+The underlying tools — **Claude Code**, **video-use**, **OmniRoute**, **FFmpeg**, **ElevenLabs**, and others — belong to their respective creators and are credited in the Resources section below.
+
+If you use this repository as the basis for a video, tutorial, article, or derivative project, please provide proper credit by linking back to:  
+**https://github.com/Shalin-Shah-2002/vocal-edit**
+
+---
+
 ## 📚 Resources & Credits
 
 | Project | Author | Link |
